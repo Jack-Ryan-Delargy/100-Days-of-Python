@@ -3,7 +3,10 @@ Project Portfolio & Course Summary
 📌 About This Repository
 
 This repository contains my final project submissions from the 100 Days of Code: The Complete Python Pro Bootcamp.
-The first five days of coursework were completed offline and committed together on Day 5. Moving forward, only completed final projects will be added to keep this repository clean, organized, and professional.
+
+[Link to Bootcamp](https://www.udemy.com/share/103IHM3@atYjPTRbZmUtt89IDv2q_jlz9ny_FrAjn63fs3wjr7--Z9nnScVx9DihfUZk94V8eA==/)
+
+The first five days of coursework were completed offline and committed together on Day 5. Moving forward, only completed final projects will be added to keep this repository clean, and organized.
 
 📘 About the Course
 
