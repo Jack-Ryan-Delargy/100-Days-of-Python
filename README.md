@@ -54,105 +54,57 @@ This repository is designed to clearly showcase my Python programming abilities 
 
 I have decided to also add a table for easy access to see what was accomplished each day:
 
-| Day | Project Description |
-|-----|---------------------|
-| 1 | Console Band Name Generator |
-| 2 | Console Tip Calculator |
-| 3 | Console Adventure Game |
-| 4 | Console Rock Paper Scissors |
-| 5 | Console Password Generator |
-| 6 | Console While Loops |
-| 7 | Console Hangman |
-| 8 | Console Encoder |
-| 9 | Console Blind Auction |
-| 10 | Console Calculator |
-| 11 |  |
-| 12 |  |
-| 13 |  |
-| 14 |  |
-| 15 |  |
-| 16 |  |
-| 17 |  |
-| 18 |  |
-| 19 |  |
-| 20 |  |
-| 21 |  |
-| 22 |  |
-| 23 |  |
-| 24 |  |
-| 25 |  |
-| 26 |  |
-| 27 |  |
-| 28 |  |
-| 29 |  |
-| 30 |  |
-| 31 |  |
-| 32 |  |
-| 33 |  |
-| 34 |  |
-| 35 |  |
-| 36 |  |
-| 37 |  |
-| 38 |  |
-| 39 |  |
-| 40 |  |
-| 41 |  |
-| 42 |  |
-| 43 |  |
-| 44 |  |
-| 45 |  |
-| 46 |  |
-| 47 |  |
-| 48 |  |
-| 49 |  |
-| 50 |  |
-| 51 |  |
-| 52 |  |
-| 53 |  |
-| 54 |  |
-| 55 |  |
-| 56 |  |
-| 57 |  |
-| 58 |  |
-| 59 |  |
-| 60 |  |
-| 61 |  |
-| 62 |  |
-| 63 |  |
-| 64 |  |
-| 65 |  |
-| 66 |  |
-| 67 |  |
-| 68 |  |
-| 69 |  |
-| 70 |  |
-| 71 |  |
-| 72 |  |
-| 73 |  |
-| 74 |  |
-| 75 |  |
-| 76 |  |
-| 77 |  |
-| 78 |  |
-| 79 |  |
-| 80 |  |
-| 81 |  |
-| 82 |  |
-| 83 |  |
-| 84 |  |
-| 85 |  |
-| 86 |  |
-| 87 |  |
-| 88 |  |
-| 89 |  |
-| 90 |  |
-| 91 |  |
-| 92 |  |
-| 93 |  |
-| 94 |  |
-| 95 |  |
-| 96 |  |
-| 97 |  |
-| 98 |  |
-| 99 |  |
-| 100 |  |
+# 100 Days of Code - Project List
+
+| Day | Project Description | Day | Project Description |
+|-----|---------------------|-----|---------------------|
+| 1 | Console Band Name Generator | 51 |  |
+| 2 | Console Tip Calculator | 52 |  |
+| 3 | Console Adventure Game | 53 |  |
+| 4 | Console Rock Paper Scissors | 54 |  |
+| 5 | Console Password Generator | 55 |  |
+| 6 | Console While Loops | 56 |  |
+| 7 | Console Hangman | 57 |  |
+| 8 | Console Encoder | 58 |  |
+| 9 | Console Blind Auction | 59 |  |
+| 10 | Console Calculator | 60 |  |
+| 11 |  | 61 |  |
+| 12 |  | 62 |  |
+| 13 |  | 63 |  |
+| 14 |  | 64 |  |
+| 15 |  | 65 |  |
+| 16 |  | 66 |  |
+| 17 |  | 67 |  |
+| 18 |  | 68 |  |
+| 19 |  | 69 |  |
+| 20 |  | 70 |  |
+| 21 |  | 71 |  |
+| 22 |  | 72 |  |
+| 23 |  | 73 |  |
+| 24 |  | 74 |  |
+| 25 |  | 75 |  |
+| 26 |  | 76 |  |
+| 27 |  | 77 |  |
+| 28 |  | 78 |  |
+| 29 |  | 79 |  |
+| 30 |  | 80 |  |
+| 31 |  | 81 |  |
+| 32 |  | 82 |  |
+| 33 |  | 83 |  |
+| 34 |  | 84 |  |
+| 35 |  | 85 |  |
+| 36 |  | 86 |  |
+| 37 |  | 87 |  |
+| 38 |  | 88 |  |
+| 39 |  | 89 |  |
+| 40 |  | 90 |  |
+| 41 |  | 91 |  |
+| 42 |  | 92 |  |
+| 43 |  | 93 |  |
+| 44 |  | 94 |  |
+| 45 |  | 95 |  |
+| 46 |  | 96 |  |
+| 47 |  | 97 |  |
+| 48 |  | 98 |  |
+| 49 |  | 99 |  |
+| 50 |  | 100 |  |
