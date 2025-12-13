@@ -51,3 +51,60 @@ GUI and desktop applications
 🎯 Goal
 
 This repository is designed to clearly showcase my Python programming abilities and the real-world projects I've built throughout the course. It highlights clean code, practical applications, and consistent learning progress.
+
+I have decided to also add a table for easy access to see what was accomplished each day:
+
+# 100 Days of Code - Project List
+
+| Day | Project Description | Day | Project Description |
+|-----|---------------------|-----|---------------------|
+| 1 | Console Band Name Generator | 51 |  |
+| 2 | Console Tip Calculator | 52 |  |
+| 3 | Console Adventure Game | 53 |  |
+| 4 | Console Rock Paper Scissors | 54 |  |
+| 5 | Console Password Generator | 55 |  |
+| 6 | Console While Loops | 56 |  |
+| 7 | Console Hangman | 57 |  |
+| 8 | Console Encoder | 58 |  |
+| 9 | Console Blind Auction | 59 |  |
+| 10 | Console Calculator | 60 |  |
+| 11 |  | 61 |  |
+| 12 |  | 62 |  |
+| 13 |  | 63 |  |
+| 14 |  | 64 |  |
+| 15 |  | 65 |  |
+| 16 |  | 66 |  |
+| 17 |  | 67 |  |
+| 18 |  | 68 |  |
+| 19 |  | 69 |  |
+| 20 |  | 70 |  |
+| 21 |  | 71 |  |
+| 22 |  | 72 |  |
+| 23 |  | 73 |  |
+| 24 |  | 74 |  |
+| 25 |  | 75 |  |
+| 26 |  | 76 |  |
+| 27 |  | 77 |  |
+| 28 |  | 78 |  |
+| 29 |  | 79 |  |
+| 30 |  | 80 |  |
+| 31 |  | 81 |  |
+| 32 |  | 82 |  |
+| 33 |  | 83 |  |
+| 34 |  | 84 |  |
+| 35 |  | 85 |  |
+| 36 |  | 86 |  |
+| 37 |  | 87 |  |
+| 38 |  | 88 |  |
+| 39 |  | 89 |  |
+| 40 |  | 90 |  |
+| 41 |  | 91 |  |
+| 42 |  | 92 |  |
+| 43 |  | 93 |  |
+| 44 |  | 94 |  |
+| 45 |  | 95 |  |
+| 46 |  | 96 |  |
+| 47 |  | 97 |  |
+| 48 |  | 98 |  |
+| 49 |  | 99 |  |
+| 50 |  | 100 |  |
