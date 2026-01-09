@@ -68,12 +68,12 @@ I have decided to also add a table for easy access to see what was accomplished 
 | 8 | Console Encoder | 58 |  |
 | 9 | Console Blind Auction | 59 |  |
 | 10 | Console Calculator | 60 |  |
-| 11 |  | 61 |  |
-| 12 |  | 62 |  |
-| 13 |  | 63 |  |
-| 14 |  | 64 |  |
-| 15 |  | 65 |  |
-| 16 |  | 66 |  |
+| 11 | Console Blackjack | 61 |  |
+| 12 | Console Number Guessing | 62 |  |
+| 13 | Python Debugging Techniques | 63 |  |
+| 14 | Higher or Lower Game | 64 |  |
+| 15 | Console Coffee Machine | 65 |  |
+| 16 | Object Oriented Programing | 66 |  |
 | 17 |  | 67 |  |
 | 18 |  | 68 |  |
 | 19 |  | 69 |  |
